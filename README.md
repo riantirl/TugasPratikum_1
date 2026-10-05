@@ -1,19 +1,21 @@
 # TugasPratikum_1
- 1.	Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshot-nya. 
+ 1.	Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshot-nya.
+    
 Tahap 1:
-![Uploading image.png…]()
-
+<img width="658" height="447" alt="Picture3" src="https://github.com/user-attachments/assets/e616afe4-88d5-4f4b-b2e1-11daa8267ad1" />
   
 Tahap 2: 
- ![Uploading image.png…]()
- 
+<img width="547" height="336" alt="Picture4" src="https://github.com/user-attachments/assets/e676ad00-ddc6-4b4a-a9fc-73b02a3535b6" />
+
 Tahap 3: 
- ![Uploading image.png…]()
- 
+<img width="546" height="380" alt="Picture1" src="https://github.com/user-attachments/assets/bfbf3445-237c-4cb5-92e7-f837fb2b93e2" />
+
 Tahap 4: 
-![Uploading image.png…]()
+<img width="547" height="433" alt="Picture2" src="https://github.com/user-attachments/assets/45590e84-8119-44f8-8125-a249eff0f37d" />
+
   
-2.	Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ? Jawab : Mount Point “/” perlu dipilih karena merupakan root directory atau direktori utama dalam sistem Linux. Root menjadi lokasi dasar bagi direktori penting seperti /etc, /usr, /var, dan /home. Dengan menentukan Mount Point “/”, sistem operasi memiliki tempat utama untuk menginstal, menyimpan, dan menjalankan berbagai file serta komponen yang diperlukan agar Linux dapat bekerja dengan baik. 
+2.	Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?
+   Jawab : Mount Point “/” perlu dipilih karena merupakan root directory atau direktori utama dalam sistem Linux. Root menjadi lokasi dasar bagi direktori penting seperti /etc, /usr, /var, dan /home. Dengan menentukan Mount Point “/”, sistem operasi memiliki tempat utama untuk menginstal, menyimpan, dan menjalankan berbagai file serta komponen yang diperlukan agar Linux dapat bekerja dengan baik. 
  
 3.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs ! 
 Jawab : 
