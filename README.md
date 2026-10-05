@@ -1,23 +1,33 @@
 # TugasPratikum_1
  1.	Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshot-nya.
+
     
 Tahap 1:
+
 <img width="658" height="447" alt="Picture3" src="https://github.com/user-attachments/assets/e616afe4-88d5-4f4b-b2e1-11daa8267ad1" />
 
 
+
+
   
-Tahap 2: 
+Tahap 2:
+
 <img width="547" height="336" alt="Picture4" src="https://github.com/user-attachments/assets/e676ad00-ddc6-4b4a-a9fc-73b02a3535b6" />
 
 
 
-Tahap 3: 
+
+Tahap 3:
+
 <img width="546" height="380" alt="Picture1" src="https://github.com/user-attachments/assets/bfbf3445-237c-4cb5-92e7-f837fb2b93e2" />
 
 
 
+
 Tahap 4: 
+
 <img width="547" height="433" alt="Picture2" src="https://github.com/user-attachments/assets/45590e84-8119-44f8-8125-a249eff0f37d" />
+
 
 
 
